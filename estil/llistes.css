@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url('../imatje/OIP.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #00ff4c;
+    padding: 20px;
+}
+h1, h2 {
+    background-color: blueviolet;
+
+    text-align: center;
+    color: #00ff4c;
+}
+ol {
+    background-color: blueviolet;
+}
+ul {
+    margin: 10px 0;
+    padding: 0 20px;
+}
